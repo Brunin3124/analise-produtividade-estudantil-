@@ -19,15 +19,15 @@ Este projeto analisa os padrões de produtividade, hábitos de estudo e indicado
 
 **1. Qualidade supera Quantidade (O Poder do Foco)**
 A análise de correlação revelou que o "Índice de Foco" (0.74) e a "Saúde Mental" (0.54) possuem um impacto muito maior na nota final do que as horas brutas de estudo (0.43).
-![Gráfico de Foco vs Nota](01_heatmap.png)
+![Gráfico de Foco vs Nota](img/01_heatmap.png)
 
 **2. O Custo Real do Esgotamento**
 O `burnout_level` se mostrou o maior detrator de notas do dataset (-0.40). A linha de tendência comprova que, à medida que o esgotamento aumenta, a performance acadêmica despenca severamente.
-![Gráfico de Burnout vs Nota](04_burnout_vs_exame.png)
+![Gráfico de Burnout vs Nota](img/04_burnout_vs_exame.png)
 
 **3. O Sono como Escudo Protetor**
 Dormir é produtivo. A correlação negativa forte do sono (-0.49) com o burnout indica que alunos que mantêm uma higiene de sono ideal (6.5h a 8.5h) conseguem blindar sua saúde mental contra as pressões da rotina.
-![Gráfico de Sono](03_boxplot_sono.png)
+![Gráfico de Sono](img/03_boxplot_sono.png)
 
 
 ## 📬 Contato
